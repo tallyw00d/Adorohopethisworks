@@ -6,7 +6,7 @@ on:
 jobs:
   ValidateModel:
     resources:
-      instance-type: P4000
+      instance-type: P5000
     inputs:
       model:
         type: dataset
